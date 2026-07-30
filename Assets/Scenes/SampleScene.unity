@@ -119,7 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!1 &5615419
+=======
+--- !u!1 &137988416
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,6 +131,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 5615425}
   - component: {fileID: 5615424}
   - component: {fileID: 5615423}
@@ -135,18 +140,36 @@ GameObject:
   - component: {fileID: 5615420}
   m_Layer: 0
   m_Name: Road_Section
+=======
+  - component: {fileID: 137988422}
+  - component: {fileID: 137988421}
+  - component: {fileID: 137988420}
+  - component: {fileID: 137988419}
+  - component: {fileID: 137988418}
+  - component: {fileID: 137988417}
+  m_Layer: 0
+  m_Name: Cube
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream
 --- !u!64 &5615420
+=======
+--- !u!64 &137988417
+>>>>>>> Stashed changes
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
+=======
+  m_GameObject: {fileID: 137988416}
+>>>>>>> Stashed changes
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -161,22 +184,37 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
+<<<<<<< Updated upstream
   m_Mesh: {fileID: 1363140328}
 --- !u!33 &5615421
+=======
+  m_Mesh: {fileID: 1893105471}
+--- !u!33 &137988418
+>>>>>>> Stashed changes
 MeshFilter:
   m_ObjectHideFlags: 10
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
   m_Mesh: {fileID: 1363140328}
 --- !u!23 &5615422
+=======
+  m_GameObject: {fileID: 137988416}
+  m_Mesh: {fileID: 1893105471}
+--- !u!23 &137988419
+>>>>>>> Stashed changes
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
+=======
+  m_GameObject: {fileID: 137988416}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -219,19 +257,28 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< Updated upstream
 --- !u!114 &5615423
+=======
+--- !u!114 &137988420
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
+=======
+  m_GameObject: {fileID: 137988416}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1ca002da428252441b92f28d83c8a65f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.ProBuilder::UnityEngine.ProBuilder.Shapes.ProBuilderShape
   m_Shape:
+<<<<<<< Updated upstream
     rid: 8828976800548257977
   m_ShapeRotation: {x: 0, y: 0, z: 0, w: 1}
   m_UnmodifiedMeshVersion: 2542
@@ -244,12 +291,30 @@ MonoBehaviour:
       type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
       data: 
 --- !u!114 &5615424
+=======
+    rid: 8828976800548257979
+  m_ShapeRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_UnmodifiedMeshVersion: 2798
+  m_Size: {x: -21.750595, y: -16.117271, z: 19.289837}
+  m_LocalCenter: {x: 0, y: 0, z: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 8828976800548257979
+      type: {class: Cube, ns: UnityEngine.ProBuilder.Shapes, asm: Unity.ProBuilder}
+      data: 
+--- !u!114 &137988421
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
+=======
+  m_GameObject: {fileID: 137988416}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
@@ -370,6 +435,7 @@ MonoBehaviour:
   - m_Vertices: 0b0000000e00000012000000
   m_SharedTextures: []
   m_Positions:
+<<<<<<< Updated upstream
   - {x: -19.3625, y: -0.5, z: 7.3735228}
   - {x: 12.793018, y: -0.5, z: 7.3735228}
   - {x: -19.3625, y: 0.5, z: 7.3735228}
@@ -418,6 +484,56 @@ MonoBehaviour:
   - {x: 32.155518, y: -11.887699}
   - {x: 0, y: -11.887699}
   - {x: 32.155518, y: 1}
+=======
+  - {x: -10.875298, y: -8.058636, z: 9.644918}
+  - {x: 10.875298, y: -8.058636, z: 9.644918}
+  - {x: -10.875298, y: 8.058636, z: 9.644918}
+  - {x: 10.875298, y: 8.058636, z: 9.644918}
+  - {x: 10.875298, y: -8.058636, z: 9.644918}
+  - {x: 10.875298, y: -8.058636, z: -9.644918}
+  - {x: 10.875298, y: 8.058636, z: 9.644918}
+  - {x: 10.875298, y: 8.058636, z: -9.644918}
+  - {x: 10.875298, y: -8.058636, z: -9.644918}
+  - {x: -10.875298, y: -8.058636, z: -9.644918}
+  - {x: 10.875298, y: 8.058636, z: -9.644918}
+  - {x: -10.875298, y: 8.058636, z: -9.644918}
+  - {x: -10.875298, y: -8.058636, z: -9.644918}
+  - {x: -10.875298, y: -8.058636, z: 9.644918}
+  - {x: -10.875298, y: 8.058636, z: -9.644918}
+  - {x: -10.875298, y: 8.058636, z: 9.644918}
+  - {x: -10.875298, y: 8.058636, z: 9.644918}
+  - {x: 10.875298, y: 8.058636, z: 9.644918}
+  - {x: -10.875298, y: 8.058636, z: -9.644918}
+  - {x: 10.875298, y: 8.058636, z: -9.644918}
+  - {x: -10.875298, y: -8.058636, z: -9.644918}
+  - {x: 10.875298, y: -8.058636, z: -9.644918}
+  - {x: -10.875298, y: -8.058636, z: 9.644918}
+  - {x: 10.875298, y: -8.058636, z: 9.644918}
+  m_Textures0:
+  - {x: 21.750595, y: -15.117271}
+  - {x: 0, y: -15.117271}
+  - {x: 21.750595, y: 1}
+  - {x: 0, y: 1}
+  - {x: 19.289837, y: -15.117271}
+  - {x: 0, y: -15.117271}
+  - {x: 19.289837, y: 1}
+  - {x: 0, y: 1}
+  - {x: 21.750595, y: -15.117271}
+  - {x: 0, y: -15.117271}
+  - {x: 21.750595, y: 1}
+  - {x: 0, y: 1}
+  - {x: 19.289837, y: -15.117271}
+  - {x: 0, y: -15.117271}
+  - {x: 19.289837, y: 1}
+  - {x: 0, y: 1}
+  - {x: 0, y: 1}
+  - {x: 21.750595, y: 1}
+  - {x: 0, y: -18.289837}
+  - {x: 21.750595, y: -18.289837}
+  - {x: 21.750595, y: -18.289837}
+  - {x: 0, y: -18.289837}
+  - {x: 21.750595, y: 1}
+>>>>>>> Stashed changes
   - {x: 0, y: 1}
   m_Textures2: []
   m_Textures3: []
@@ -454,18 +570,28 @@ MonoBehaviour:
     m_AreaError: 15
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
+<<<<<<< Updated upstream
   m_Mesh: {fileID: 1363140328}
   m_VersionIndex: 2542
+=======
+  m_Mesh: {fileID: 1893105471}
+  m_VersionIndex: 2798
+>>>>>>> Stashed changes
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+<<<<<<< Updated upstream
 --- !u!4 &5615425
+=======
+--- !u!4 &137988422
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5615419}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -833,6 +959,17 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+=======
+  m_GameObject: {fileID: 137988416}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.6698947, y: -8.058636, z: 6.2917233}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1097,6 +1234,7 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+<<<<<<< Updated upstream
 --- !u!1 &603384511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1453,6 +1591,8 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+=======
+>>>>>>> Stashed changes
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1502,6 +1642,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 --- !u!1 &1288611011
 GameObject:
   m_ObjectHideFlags: 0
@@ -1859,12 +2000,19 @@ MonoBehaviour:
   m_SelectedEdges: []
   m_SelectedVertices: 
 --- !u!43 &1363140328
+=======
+--- !u!43 &1893105471
+>>>>>>> Stashed changes
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_Name: pb_Mesh-6984
+=======
+  m_Name: pb_Mesh-12888
+>>>>>>> Stashed changes
   serializedVersion: 12
   m_SubMeshes:
   - serializedVersion: 2
@@ -1875,8 +2023,13 @@ Mesh:
     firstVertex: 0
     vertexCount: 24
     localAABB:
+<<<<<<< Updated upstream
       m_Center: {x: -3.2847404, y: 0, z: 0.9296732}
       m_Extent: {x: 16.077759, y: 0.5, z: 6.4438496}
+=======
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 10.875298, y: 8.058636, z: 9.644918}
+>>>>>>> Stashed changes
   m_Shapes:
     vertices: []
     shapes: []
@@ -1955,7 +2108,11 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 1152
+<<<<<<< Updated upstream
     _typelessdata: 66e69ac1000000bfe6f3eb4000000000000000000000803f000080bf0000000000000000000080bf409f00420000000034b04c41000000bfe6f3eb4000000000000000000000803f000080bf0000000000000000000080bf000000000000000066e69ac10000003fe6f3eb4000000000000000000000803f000080bf0000000000000000000080bf409f00420000803f34b04c410000003fe6f3eb4000000000000000000000803f000080bf0000000000000000000080bf000000000000803f34b04c41000000bfe6f3eb400000803f000000000000000000000000000000000000803f000080bf04344e410000000034b04c41000000bf2274b0c00000803f000000000000000000000000000000000000803f000080bf000000000000000034b04c410000003fe6f3eb400000803f000000000000000000000000000000000000803f000080bf04344e410000803f34b04c410000003f2274b0c00000803f000000000000000000000000000000000000803f000080bf000000000000803f34b04c41000000bf2274b0c00000000000000000000080bf0000803f0000000000000000000080bf409f00420000000066e69ac1000000bf2274b0c00000000000000000000080bf0000803f0000000000000000000080bf000000000000000034b04c410000003f2274b0c00000000000000000000080bf0000803f0000000000000000000080bf409f00420000803f66e69ac10000003f2274b0c00000000000000000000080bf0000803f0000000000000000000080bf000000000000803f66e69ac1000000bf2274b0c0000080bf00000000000000000000000000000000000080bf000080bf04344e410000000066e69ac1000000bfe6f3eb40000080bf00000000000000000000000000000000000080bf000080bf000000000000000066e69ac10000003f2274b0c0000080bf00000000000000000000000000000000000080bf000080bf04344e410000803f66e69ac10000003fe6f3eb40000080bf00000000000000000000000000000000000080bf000080bf000000000000803f66e69ac10000003fe6f3eb40000000000000803f000000000000803f0000000000000000000080bf000000000000803f34b04c410000003fe6f3eb40000000000000803f000000000000803f0000000000000000000080bf409f00420000803f66e69ac10000003f2274b0c0000000000000803f000000000000803f0000000000000000000080bf0000000004343ec134b04c410000003f2274b0c0000000000000803f000000000000803f0000000000000000000080bf409f004204343ec166e69ac1000000bf2274b0c000000000000080bf00000000000080bf0000000000000000000080bf409f004204343ec134b04c41000000bf2274b0c000000000000080bf00000000000080bf0000000000000000000080bf0000000004343ec166e69ac1000000bfe6f3eb4000000000000080bf00000000000080bf0000000000000000000080bf409f00420000803f34b04c41000000bfe6f3eb4000000000000080bf00000000000080bf0000000000000000000080bf000000000000803f
+=======
+    _typelessdata: 38012ec12cf000c196511a4100000000000000000000803f000080bf0000000000000000000080bf3801ae4158e071c138012e412cf000c196511a4100000000000000000000803f000080bf0000000000000000000080bf0000000058e071c138012ec12cf0004196511a4100000000000000000000803f000080bf0000000000000000000080bf3801ae410000803f38012e412cf0004196511a4100000000000000000000803f000080bf0000000000000000000080bf000000000000803f38012e412cf000c196511a410000803f000000000000000000000000000000000000803f000080bf96519a4158e071c138012e412cf000c196511ac10000803f000000000000000000000000000000000000803f000080bf0000000058e071c138012e412cf0004196511a410000803f000000000000000000000000000000000000803f000080bf96519a410000803f38012e412cf0004196511ac10000803f000000000000000000000000000000000000803f000080bf000000000000803f38012e412cf000c196511ac10000000000000000000080bf0000803f0000000000000000000080bf3801ae4158e071c138012ec12cf000c196511ac10000000000000000000080bf0000803f0000000000000000000080bf0000000058e071c138012e412cf0004196511ac10000000000000000000080bf0000803f0000000000000000000080bf3801ae410000803f38012ec12cf0004196511ac10000000000000000000080bf0000803f0000000000000000000080bf000000000000803f38012ec12cf000c196511ac1000080bf00000000000000000000000000000000000080bf000080bf96519a4158e071c138012ec12cf000c196511a41000080bf00000000000000000000000000000000000080bf000080bf0000000058e071c138012ec12cf0004196511ac1000080bf00000000000000000000000000000000000080bf000080bf96519a410000803f38012ec12cf0004196511a41000080bf00000000000000000000000000000000000080bf000080bf000000000000803f38012ec12cf0004196511a41000000000000803f000000000000803f0000000000000000000080bf000000000000803f38012e412cf0004196511a41000000000000803f000000000000803f0000000000000000000080bf3801ae410000803f38012ec12cf0004196511ac1000000000000803f000000000000803f0000000000000000000080bf00000000965192c138012e412cf0004196511ac1000000000000803f000000000000803f0000000000000000000080bf3801ae41965192c138012ec12cf000c196511ac100000000000080bf00000000000080bf0000000000000000000080bf3801ae41965192c138012e412cf000c196511ac100000000000080bf00000000000080bf0000000000000000000080bf00000000965192c138012ec12cf000c196511a4100000000000080bf00000000000080bf0000000000000000000080bf3801ae410000803f38012e412cf000c196511a4100000000000080bf00000000000080bf0000000000000000000080bf000000000000803f
+>>>>>>> Stashed changes
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -2009,8 +2166,13 @@ Mesh:
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
+<<<<<<< Updated upstream
     m_Center: {x: -3.2847404, y: 0, z: 0.9296732}
     m_Extent: {x: 16.077759, y: 0.5, z: 6.4438496}
+=======
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 10.875298, y: 8.058636, z: 9.644918}
+>>>>>>> Stashed changes
   m_MeshUsageFlags: 0
   m_CookingOptions: 30
   m_BakedConvexCollisionMesh: 
@@ -2043,4 +2205,8 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
+<<<<<<< Updated upstream
   - {fileID: 5615425}
+=======
+  - {fileID: 137988422}
+>>>>>>> Stashed changes
